@@ -1,0 +1,20 @@
+
+.Item {
+    outline: 1px solid rgb(228, 233, 240);
+    padding: 20px;
+    background-color: rgb(185, 207, 230);
+    text-align: center;
+	list-style-type: none;
+}
+
+.Label,
+.Percentage {
+    display: block;
+    font-size: 12px;
+    color: rgb(0, 0, 0);
+}
+
+.Percentage {
+    font-size: 18px;
+    font-weight: bold;
+}
